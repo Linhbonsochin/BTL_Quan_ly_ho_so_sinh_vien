@@ -52,26 +52,47 @@ Hệ thống không chỉ giúp tin học hóa quy trình quản lý sinh viên,
 ## 🚀 3. Hình ảnh các chức năng
 ### Trang đăng nhập
 <img width="628" height="524" alt="image" src="https://github.com/user-attachments/assets/ce51fda8-1e29-4c77-8e1b-a09135a1e592" />
+
 ### Trang dashboard admin
+
 <img width="1897" height="984" alt="image" src="https://github.com/user-attachments/assets/9af2e68f-54d6-470c-99f7-3015014813d3" />
+
 ### Trang dashboard sinh viên
+
 <img width="1919" height="596" alt="image" src="https://github.com/user-attachments/assets/cf67b071-c812-4846-b756-60482ed9b5ff" />
+
 ### Trang danh sách sinh viên
+
 <img width="1550" height="988" alt="image" src="https://github.com/user-attachments/assets/935b23ec-e503-4c9c-ba74-8494049890d4" />
+
 ### Trang quản lý điểm
+
 <img width="1902" height="984" alt="image" src="https://github.com/user-attachments/assets/f0a8cc7f-4ddf-4001-aca0-0d796307aa81" />
+
 ### Trang quản lý khoa
+
 <img width="1919" height="980" alt="image" src="https://github.com/user-attachments/assets/8386f418-6685-4dc4-9567-6a810452db43" />
+
 ### Trang quản lý môn học
+
 <img width="1897" height="988" alt="image" src="https://github.com/user-attachments/assets/d328db8f-6896-411f-8ae4-f314704c85a2" />
+
 ### Trang quản lý lớp học
+
 <img width="1896" height="993" alt="image" src="https://github.com/user-attachments/assets/ac3e9b39-6688-4ce0-a933-44180cb121e5" />
+
 ### Trang quản lý tài khoản
+
 <img width="1892" height="986" alt="image" src="https://github.com/user-attachments/assets/8c06e347-90b1-4923-aa8f-22e109c0edf7" />
+
 ### Trang hồ sơ sinh viên
+
 <img width="1895" height="993" alt="image" src="https://github.com/user-attachments/assets/f2e7c832-353e-46ac-b0aa-283a86e08d9f" />
+
 ### Trang kết quả học tập
+
 <img width="1900" height="987" alt="image" src="https://github.com/user-attachments/assets/2c44e789-c716-4107-9478-aaef4d91ab1b" />
+
 ## ⚙️ 4. Cài đặt
 
 ### 4.1. Cài đặt công cụ, môi trường và các thư viện cần thiết
