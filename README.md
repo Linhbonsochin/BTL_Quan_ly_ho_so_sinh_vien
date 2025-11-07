@@ -13,9 +13,10 @@
         <img src="docs/logo/dnu_logo.png" alt="DaiNam University Logo" width="200"/>
     </p>
 
-<img width="1508" height="1687" alt="aiotlab_logo" src="https://github.com/user-attachments/assets/6fa065a9-e0f6-47bf-b17e-70b953db8d05" />
-<img width="3693" height="3693" alt="fitdnu_logo" src="https://github.com/user-attachments/assets/1f27076b-7371-4964-aab7-5182c0e0d36c" />
-<img width="1128" height="1024" alt="dnu_logo" src="https://github.com/user-attachments/assets/1ad3617b-0fa4-4140-b9d3-bc2e21a440a1" />
+[![AIoTLab](https://img.shields.io/badge/AIoTLab-green?style=for-the-badge)](https://www.facebook.com/DNUAIoTLab)
+[![Faculty of Information Technology](https://img.shields.io/badge/Faculty%20of%20Information%20Technology-blue?style=for-the-badge)](https://dainam.edu.vn/vi/khoa-cong-nghe-thong-tin)
+[![DaiNam University](https://img.shields.io/badge/DaiNam%20University-orange?style=for-the-badge)](https://dainam.edu.vn)
+
 
 </div>
 
