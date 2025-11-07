@@ -56,13 +56,13 @@ CREATE TABLE `departments` (
 -- Dữ liệu mẫu cho bảng `departments`
 INSERT INTO `departments` (`department_code`, `department_name`) VALUES
 ('CNTT', 'Công nghệ thông tin'),
+('KHMT', 'Khoa học máy tính'),
 ('KT', 'Kế toán'),
+('NNH', 'Ngôn ngữ hàn'),
+('NNT', 'Ngôn ngữ trung'),
 ('QTKD', 'Quản trị kinh doanh'),
-('KTMT', 'Kỹ thuật máy tính'),
-('DTVT', 'Điện tử viễn thông'),
-('HTTT', 'Hệ thống thông tin'),
-('ATTT', 'An toàn thông tin'),
-('CNPM', 'Công nghệ phần mềm');
+('TMDT', 'Thương mại điện tử'),
+('TT', 'Truyền thông');
 
 -- --------------------------------------------------------
 -- Cấu trúc bảng `classes`
@@ -85,18 +85,18 @@ INSERT INTO `classes` (`class_code`, `class_name`, `department_id`) VALUES
 ('CNTT1', 'Công nghệ thông tin 1', 1),
 ('CNTT2', 'Công nghệ thông tin 2', 1),
 ('CNTT3', 'Công nghệ thông tin 3', 1),
-('KT1', 'Kế toán 1', 2),
-('KT2', 'Kế toán 2', 2),
-('QTKD1', 'Quản trị kinh doanh 1', 3),
-('QTKD2', 'Quản trị kinh doanh 2', 3),
-('KTMT1', 'Kỹ thuật máy tính 1', 4),
-('KTMT2', 'Kỹ thuật máy tính 2', 4),
-('DTVT1', 'Điện tử viễn thông 1', 5),
-('DTVT2', 'Điện tử viễn thông 2', 5),
-('HTTT1', 'Hệ thống thông tin 1', 6),
-('HTTT2', 'Hệ thống thông tin 2', 6),
-('ATTT1', 'An toàn thông tin 1', 7),
-('CNPM1', 'Công nghệ phần mềm 1', 8);
+('KHMT1', 'Khoa học máy tính 1', 2),
+('KHMT2', 'Khoa học máy tính 2', 2),
+('KT1', 'Kế toán 1', 3),
+('KT2', 'Kế toán 2', 3),
+('NNH1', 'Ngôn ngữ Hàn 1', 4),
+('NNH2', 'Ngôn ngữ Hàn 2', 4),
+('NNT1', 'Ngôn ngữ Trung 1', 5),
+('NNT2', 'Ngôn ngữ Trung 2', 5),
+('QTKD1', 'Quản trị kinh doanh 1', 6),
+('QTKD2', 'Quản trị kinh doanh 2', 6),
+('TMDT1', 'Thương mại điện tử 1', 7),
+('TT1', 'Truyền thông 1', 8);
 
 -- --------------------------------------------------------
 -- Cấu trúc bảng `students`
@@ -165,23 +165,23 @@ INSERT INTO `subjects` (`subject_code`, `subject_name`, `credits`, `department_i
 ('LTCB', 'Lập trình cơ bản', 3, 1),
 ('CSDL', 'Cơ sở dữ liệu', 4, 1),
 ('MMT', 'Mạng máy tính', 3, 1),
-('KTUD', 'Kỹ thuật ứng dụng', 3, 1),
+('KTPM', 'Kiểm thử phần mềm', 3, 1),
 ('JAVA', 'Lập trình Java', 4, 1),
-('KTVM', 'Kế toán vốn mặt', 3, 2),
-('KTTC', 'Kế toán tài chính', 4, 2),
-('KTQL', 'Kế toán quản lý', 3, 2),
-('QTKD1', 'Quản trị kinh doanh 1', 3, 3),
-('QTKD2', 'Quản trị kinh doanh 2', 3, 3),
-('KTMT1', 'Kiến trúc máy tính', 4, 4),
-('KTMT2', 'Thiết kế máy tính', 3, 4),
-('DTVT1', 'Kỹ thuật điện tử', 4, 5),
-('DTVT2', 'Truyền thông số', 3, 5),
-('HTTT1', 'Phân tích hệ thống', 4, 6),
-('HTTT2', 'Thiết kế hệ thống', 3, 6),
-('ATTT1', 'Mật mã học', 4, 7),
-('ATTT2', 'An toàn mạng', 3, 7),
-('CNPM1', 'Công nghệ phần mềm', 4, 8),
-('CNPM2', 'Kiểm thử phần mềm', 3, 8);
+('TTNT', 'Trí tuệ nhân tạo', 4, 2),
+('KHDL', 'Khoa học dữ liệu', 4, 2),
+('ML', 'Học máy', 3, 2),
+('KTVM', 'Kế toán vốn mặt', 3, 3),
+('KTTC', 'Kế toán tài chính', 4, 3),
+('KTQL', 'Kế toán quản lý', 3, 3),
+('NNHCB', 'Tiếng Hàn cơ bản', 4, 4),
+('VHHN', 'Văn hóa Hàn Quốc', 3, 4),
+('NNTCB', 'Tiếng Trung cơ bản', 4, 5),
+('VHTQ', 'Văn hóa Trung Quốc', 3, 5),
+('QTKD1', 'Quản trị kinh doanh 1', 3, 6),
+('QTKD2', 'Quản trị kinh doanh 2', 3, 6),
+('TMDT1', 'Marketing số', 4, 7),
+('TMDT2', 'Thương mại điện tử', 4, 7),
+('TT01', 'Truyền thông đại chúng', 3, 8);
 
 -- --------------------------------------------------------
 -- Cấu trúc bảng `grades`
