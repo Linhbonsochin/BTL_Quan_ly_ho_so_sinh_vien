@@ -18,7 +18,9 @@
 [![DaiNam University](https://img.shields.io/badge/DaiNam%20University-orange?style=for-the-badge)](https://dainam.edu.vn)
 
 </div>
+
  ## 📖 1. Giới thiệu
+ 
 Hệ thống Quản lý hồ sơ sinh viên đại học được xây dựng nhằm hỗ trợ công tác quản lý, theo dõi và lưu trữ thông tin sinh viên trong các trường đại học một cách khoa học và hiệu quả. Thay vì phải quản lý hồ sơ thủ công bằng giấy tờ hoặc các bảng tính Excel rời rạc, hệ thống mang đến một giải pháp quản lý tập trung, hiện đại và dễ sử dụng, giúp tiết kiệm thời gian, giảm thiểu sai sót và nâng cao hiệu quả làm việc của cán bộ phụ trách đào tạo.
 
 Ứng dụng web này cho phép quản trị viên và cán bộ dễ dàng thêm, sửa, xóa, tìm kiếm, thống kê và quản lý toàn bộ thông tin sinh viên theo khoa, lớp và ngành học. Đồng thời, sinh viên có thể đăng nhập để xem hồ sơ cá nhân, kết quả học tập, và cập nhật thông tin khi cần thiết.
@@ -49,6 +51,7 @@ Hệ thống không chỉ giúp tin học hóa quy trình quản lý sinh viên,
 ### Database Management Tools
 [![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/downloads/workbench/)
 </div>
+
 ## 🚀 3. Hình ảnh các chức năng
 
 ### Trang đăng nhập
