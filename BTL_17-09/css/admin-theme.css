@@ -1,0 +1,61 @@
+/* Admin Theme Colors */
+:root {
+    --primary-gradient: linear-gradient(135deg, #ede574, #e1f5c4);
+    --primary-color: #ede574;
+    --secondary-color: #e1f5c4;
+}
+
+/* Navbar styling for admin */
+.navbar.admin-navbar {
+    background: var(--primary-gradient) !important;
+}
+
+.admin-navbar .dropdown-menu {
+    background: var(--primary-gradient) !important;
+}
+
+/* Card headers and section headers */
+.admin-header,
+.card-header.admin-header {
+    background: var(--primary-gradient) !important;
+    color: #333;
+}
+
+/* Buttons and actions */
+.btn-admin-primary {
+    background: var(--primary-gradient) !important;
+    border: none;
+    color: #333;
+}
+
+.btn-admin-primary:hover {
+    opacity: 0.9;
+}
+
+/* Table headers */
+.admin-table th {
+    background: var(--primary-gradient) !important;
+    color: #333;
+}
+
+/* Stats and cards */
+.admin-stats {
+    background: linear-gradient(135deg, rgba(237,229,116,0.1), rgba(225,245,196,0.1));
+}
+
+/* Icons and accents */
+.admin-icon {
+    color: var(--primary-color);
+}
+
+/* Hover effects */
+.admin-nav-link:hover,
+.admin-dropdown-item:hover {
+    background: rgba(255, 255, 255, 0.2) !important;
+}
+
+/* Forms and inputs */
+.admin-form .form-control:focus {
+    border-color: var(--primary-color);
+    box-shadow: 0 0 0 0.2rem rgba(237,229,116,0.25);
+}
