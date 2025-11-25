@@ -57,7 +57,7 @@ Hệ thống không chỉ giúp tin học hóa quy trình quản lý sinh viên,
 
 ### Trang đăng nhập
 
-<img width="628" height="524" alt="image" src="https://github.com/user-attachments/assets/ce51fda8-1e29-4c77-8e1b-a09135a1e592" />
+<img width="1919" height="979" alt="image" src="https://github.com/user-attachments/assets/98d2ab03-7c5c-4db3-80c0-69dd6489be4b" />
 
 ### Trang dashboard admin
 
