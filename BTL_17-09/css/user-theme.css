@@ -1,0 +1,49 @@
+/*
+========================================
+ Chức năng: Định dạng giao diện người dùng (user), màu sắc, navbar, card, link, hiệu ứng
+========================================
+*/
+/* User Theme Colors */
+:root {
+    --primary-gradient: linear-gradient(135deg, #be93c5, #7bc6cc);
+    --primary-color: #be93c5;
+    --secondary-color: #7bc6cc;
+}
+
+/* Navbar styling */
+.navbar {
+    background: var(--primary-gradient) !important;
+}
+
+.dropdown-menu {
+    background: var(--primary-gradient) !important;
+}
+
+/* Card headers */
+.profile-header,
+.grades-header {
+    background: var(--primary-gradient) !important;
+}
+
+/* Icons and accent colors */
+.student-avatar i,
+.profile-avatar i {
+    color: var(--primary-color) !important;
+}
+
+/* Statistics and numbers */
+.stat-value {
+    color: var(--primary-color) !important;
+}
+
+/* Links */
+.news-link:hover,
+.view-all-link {
+    color: var(--primary-color) !important;
+}
+
+/* Hover effects */
+.nav-link:hover,
+.dropdown-item:hover {
+    background: rgba(255, 255, 255, 0.1) !important;
+}

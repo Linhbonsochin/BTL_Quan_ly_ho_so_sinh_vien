@@ -1,0 +1,82 @@
+/*
+========================================
+ Chức năng: Định dạng giao diện trang chủ, header, navbar, panel, hero banner
+========================================
+*/
+/* Style cho logo ở header */
+.header-logo { 
+    width: 80px; 
+    height: auto; 
+}
+
+/* Style cho text trong topbar */
+.topbar .text-white h4 { 
+    margin: 0; 
+    font-size: 18px; 
+}
+
+/* Style cho các link trong navbar */
+.navbar .nav-link { 
+    color: #fff !important; 
+    font-weight: 600; 
+}
+
+/* Style cho phần hero banner */
+.hero { 
+    border-radius: 8px; 
+}
+
+/* Style cho các panel thông tin */
+.panel { 
+    border: 1px solid #dcdcdc; 
+    border-top: 5px solid #ffd800; 
+    background: #fff; 
+    min-height: 220px; 
+    margin-bottom: 18px; 
+}
+
+/* Style cho header của panel */
+.panel-header { 
+    padding: 10px 12px; 
+    font-weight: 700; 
+    background: #f5f5f5; 
+    border-bottom: 1px solid #eee; 
+}
+
+/* Style cho phần nội dung của panel */
+.panel-body { 
+    padding: 12px; 
+}
+
+/* Style cho nút xem tất cả */
+.view-all { 
+    padding: 8px 12px; 
+}
+
+/* Style cho heading trong footer */
+.site-footer h5 { 
+    margin-bottom: 8px; 
+}
+
+/* Style cho các icon hành động trong bảng */
+.table-actions a { 
+    margin-right: 12px; 
+    text-decoration: none; 
+}
+.table-actions a .fa { 
+    font-size: 16px; 
+}
+
+/* Responsive styles cho màn hình nhỏ */
+@media (max-width: 768px) {
+    /* Ẩn text trong topbar trên màn hình nhỏ */
+    .topbar .text-white { 
+        display: none; 
+    }
+    
+    /* Căn lề trái cho text trong footer trên màn hình nhỏ */
+    .site-footer .text-end { 
+        text-align: left !important; 
+        margin-top: 12px; 
+    }
+}
