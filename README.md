@@ -65,7 +65,7 @@ Hệ thống không chỉ giúp tin học hóa quy trình quản lý sinh viên,
 
 ### Trang dashboard sinh viên
 
-<img width="1919" height="596" alt="image" src="https://github.com/user-attachments/assets/cf67b071-c812-4846-b756-60482ed9b5ff" />
+<img width="1916" height="990" alt="image" src="https://github.com/user-attachments/assets/b7377559-f064-4f0f-8cee-5e66e87c4b98" />
 
 ### Trang danh sách sinh viên
 
@@ -93,7 +93,8 @@ Hệ thống không chỉ giúp tin học hóa quy trình quản lý sinh viên,
 
 ### Trang hồ sơ sinh viên
 
-<img width="1895" height="993" alt="image" src="https://github.com/user-attachments/assets/f2e7c832-353e-46ac-b0aa-283a86e08d9f" />
+<img width="1898" height="993" alt="image" src="https://github.com/user-attachments/assets/09ae4184-4a77-4562-91b2-309914dc9881" />
+<img width="1899" height="985" alt="image" src="https://github.com/user-attachments/assets/47bb72df-b139-49aa-a3e9-79b5f0e1f014" />
 
 ### Trang kết quả học tập
 
